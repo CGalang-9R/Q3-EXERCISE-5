@@ -1,0 +1,25 @@
+body {
+	background-image: url(https://i.pinimg.com/736x/85/d4/27/85d4273104ec6707159979c7e581dd1d.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	padding: 35px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+	font-family: "Sour Gummy", sans-serif;
+	background-color: darkred;
+	color: beige;
+	border-radius: 30px;
+	padding: 35px;
+	box-shadow: 10px 10px 16px -4px rgba(0,0,0,0.5);
+}
+
+a {
+	text-decoloration: none;
+	text-decoration:none;
+	color: beige;
+}
